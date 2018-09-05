@@ -1,4 +1,4 @@
-This is XeTeX, Version 3.14159265-2.6-0.99999 (TeX Live 2018/W32TeX) (preloaded format=xelatex 2018.8.30)  5 SEP 2018 20:12
+This is XeTeX, Version 3.14159265-2.6-0.99999 (TeX Live 2018/W32TeX) (preloaded format=xelatex 2018.8.30)  5 SEP 2018 20:20
 entering extended mode
  restricted \write18 enabled.
  %&-line parsing enabled.
@@ -1989,15 +1989,12 @@ LaTeX Info: Redefining \nameref on input line 24.
 \@outlinefile=\write4
 \openout4 = `cw_report.out'.
 
-
-
-Package hyperref Warning: Rerun to get /PageLabels entry.
-
 File: logo/ZJDX.pdf Graphic file (type pdf)
 <use logo/ZJDX.pdf>
 File: logo/QSY.pdf Graphic file (type pdf)
 <use logo/QSY.pdf>
 LaTeX Font Info:    Try loading font information for U+msa on input line 28.
+
 (d:/texlive/2018/texmf-dist/tex/latex/amsfonts/umsa.fd
 File: umsa.fd 2013/01/14 v3.01 AMS symbols A
 )
@@ -2008,45 +2005,8 @@ File: umsb.fd 2013/01/14 v3.01 AMS symbols B
 ) [1
 
 ]
-
-LaTeX Warning: Reference `eq:foo1' on page 1 undefined on input line 53.
-
-
-LaTeX Warning: Reference `eq:align1' on page 1 undefined on input line 59.
-
-
-LaTeX Warning: Reference `eq:align2' on page 1 undefined on input line 59.
-
-
-LaTeX Warning: Reference `eq:align1' on page 1 undefined on input line 59.
-
-
-LaTeX Warning: Reference `eq:align1' on page 1 undefined on input line 59.
-
-
-LaTeX Warning: Reference `eq:align1' on page 1 undefined on input line 59.
-
-
-LaTeX Warning: Reference `fig:waveform' on page 1 undefined on input line 73.
-
 File: figures/Chapter1.png Graphic file (type bmp)
 <figures/Chapter1.png>
-
-LaTeX Warning: Reference `fig:subfig_test1' on page 1 undefined on input line 8
-1.
-
-
-LaTeX Warning: Reference `subfig:1a' on page 1 undefined on input line 81.
-
-
-LaTeX Warning: Reference `subfig:1b' on page 1 undefined on input line 81.
-
-
-LaTeX Warning: Reference `subfig:1c' on page 1 undefined on input line 81.
-
-
-LaTeX Warning: Reference `subfig:1d' on page 1 undefined on input line 81.
-
 File: figures/Chapter2.png Graphic file (type bmp)
 <figures/Chapter2.png>
 File: figures/Chapter3.png Graphic file (type bmp)
@@ -2055,15 +2015,13 @@ File: figures/Chapter4.png Graphic file (type bmp)
 <figures/Chapter4.png>
 File: figures/Chapter5.png Graphic file (type bmp)
 <figures/Chapter5.png>
-
-LaTeX Warning: Reference `tb:test1' on page 1 undefined on input line 111.
-
 Missing character: There is no 
  in font [lmroman10-regular]:mapping=tex-text;!
 LaTeX Font Info:    Font shape `TU/SimSun(0)/m/sl' in size <10.53937> not avail
 able
 (Font)              Font shape `TU/SimSun(0)/m/it' tried instead on input line 
 126.
+
 
 Package Fancyhdr Warning: \headheight is too small (12.0pt): 
  Make it at least 12.64723pt.
@@ -2123,28 +2081,15 @@ Package atveryend Info: Empty hook `AfterLastShipout' on input line 135.
  (./cw_report.aux)
 Package atveryend Info: Empty hook `AtVeryEndDocument' on input line 135.
 Package atveryend Info: Executing hook `AtEndAfterFileList' on input line 135.
-
-
-Package rerunfilecheck Warning: File `cw_report.out' has changed.
-(rerunfilecheck)                Rerun to get outlines right
-(rerunfilecheck)                or use package `bookmark'.
-
-Package rerunfilecheck Info: Checksums for `cw_report.out':
-(rerunfilecheck)             Before: D41D8CD98F00B204E9800998ECF8427E
-(rerunfilecheck)             After:  B8602DDA18C70B154C697A3CBEDC00AC.
-
-LaTeX Warning: There were undefined references.
-
-
-LaTeX Warning: Label(s) may have changed. Rerun to get cross-references right.
-
+Package rerunfilecheck Info: File `cw_report.out' has not changed.
+(rerunfilecheck)             Checksum: B8602DDA18C70B154C697A3CBEDC00AC.
 Package atveryend Info: Empty hook `AtVeryVeryEnd' on input line 135.
  ) 
 Here is how much of TeX's memory you used:
- 38784 strings out of 492962
- 761523 string characters out of 6136967
- 859089 words of memory out of 5000000
- 42221 multiletter control sequences out of 15000+600000
+ 38787 strings out of 492962
+ 761533 string characters out of 6136967
+ 859779 words of memory out of 5000000
+ 42224 multiletter control sequences out of 15000+600000
  546020 words of font info for 102 fonts, out of 8000000 for 9000
  1348 hyphenation exceptions out of 8191
  69i,11n,82p,489b,1618s stack positions out of 5000i,500n,10000p,200000b,80000s
